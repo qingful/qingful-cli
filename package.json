@@ -1,0 +1,21 @@
+{
+  "name": "qingful-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "qingful": "./bin/qingful.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cli-table2": "^0.2.0",
+    "fs-extra": "^3.0.1",
+    "got": "^7.1.0",
+    "koahub-router": "koahubjs/koahub-router"
+  }
+}
