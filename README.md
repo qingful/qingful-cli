@@ -6,6 +6,7 @@ $ qingful register --username test --password test
 $ qingful login --username test --password test
 $ qingful git list
 $ qingful git add --name test --repo test
+$ qingful git auth --repo test --username test
 $ qingful git deploy --path test --repo test
 $ qingful git nginx --domain test --path test --port 3000
 $ qingful git install --path test
