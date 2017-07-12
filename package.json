@@ -1,7 +1,7 @@
 {
   "name": "qingful-cli",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.0.1",
+  "description": "青否命令行",
   "main": "index.js",
   "bin": {
     "qingful": "./bin/qingful.js"
