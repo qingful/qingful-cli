@@ -1,4 +1,4 @@
-### 0.01
+### 0.0.1
 
 ```sh
 $ qingful config --registry 192.168.0.1
