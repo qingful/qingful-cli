@@ -1,4 +1,5 @@
-###0.0.1###
+### 0.01
+
 ```sh
 $ qingful config --registry 192.168.0.1
 $ qingful register --username test --password test
@@ -11,4 +12,3 @@ $ qingful git install --path test
 $ qingful git start --path test
 $ qingful git post_receive --repo test --path test
 ```
-
